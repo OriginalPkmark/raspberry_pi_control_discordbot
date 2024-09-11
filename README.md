@@ -8,6 +8,6 @@ GETTING STARTED:
 
 *  make sure you have the three librares installed (note: in the read me txt there is a way to run it in the background)
 
-*  update info with your own informations(token, channel id and user id)
+*  update info with your own informations(token, channel id, username and user id)
 
 *  run the main.py
