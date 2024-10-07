@@ -11,3 +11,13 @@ GETTING STARTED:
 *  update info with your own informations(token, channel id, username and user id)
 
 *  run the main.py
+
+
+
+
+
+
+Note you can also use docker to run it:
+
+* make a directory that you want to run it at : /mnt/@example
+* save the files in the directory:
