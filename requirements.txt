@@ -1,0 +1,3 @@
+discord
+gpiozero
+speedtest-cli
