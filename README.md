@@ -20,4 +20,8 @@ GETTING STARTED:
 Note you can also use docker to run it:
 
 * make a directory that you want to run it at : /mnt/@example
-* save the files in the directory:
+* save the files in the directory
+* create a Dockerfile. You can check the examplefile for how
+* then build the bot with the command (note: you can rename to whatever you want; I just name it bot for now): docker build -t bot .
+* then run it: docker run -d --name python-container bot
+  
