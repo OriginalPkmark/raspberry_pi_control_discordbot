@@ -1,27 +1,12 @@
-A discord bot that controls a raspberry pi it uses discord, gpiozero, and speedtest-cli libraries also it has a constant temp monitor. 
-
-more and better commands may come in the future sometime soon
 
 
+This Discord bot currently provides basic functionality to interact with your Raspberry Pi through Discord commands. It allows you to check your internet speed and monitor the temperature of your Raspberry Pi directly from Discord.
 
-GETTING STARTED:
+Future updates will include the ability to control various aspects of your Raspberry Pi via the bot, providing full remote management capabilities.
 
-*  make sure you have the three librares installed (note: in the read me txt there is a way to run it in the background)
-
-*  update info with your own informations(token, channel id, username and user id)
-
-*  run the main.py
+For more information about updates and the latest features, please refer to this README as the project evolves.
 
 
-
-
-
-
-Note you can also use docker to run it:
-
-* make a directory that you want to run it at : /mnt/@example
-* save the files in the directory
-* create a Dockerfile. You can check the examplefile for how
-* then build the bot with the command (note: you can rename to whatever you want; I just name it bot for now): docker build -t bot .
-* then run it: docker run -d --name python-container bot
-  
+Built With:
+- [discord.py](https://github.com/Rapptz/discord.py)
+- [clic-speed](https://pypi.org/project/clic-speed/)
