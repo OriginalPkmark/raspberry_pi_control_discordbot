@@ -10,3 +10,5 @@ For more information about updates and the latest features, please refer to this
 Built With:
 - [discord.py](https://github.com/Rapptz/discord.py)
 - [clic-speed](https://pypi.org/project/clic-speed/)
+
+Please download the latest version under the release section. The .rar file notes: you'll need WinRAR to extract it
