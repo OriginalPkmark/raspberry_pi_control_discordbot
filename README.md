@@ -12,3 +12,7 @@ Please download the latest version under the release section. The .rar file note
 Built With:
 - [discord.py](https://github.com/Rapptz/discord.py)
 - [clic-speed](https://pypi.org/project/clic-speed/)
+
+
+
+please go to Releases to get the latest version and read the read me file
